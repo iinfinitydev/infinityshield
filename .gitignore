@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Logs and local env
+*.log
+.env
+.env.local
+
+# Future dependencies (if we ever add any)
+node_modules/
+dist/
+build/
+
+# Large files we don't want to commit
+*.zip
+*.rar
